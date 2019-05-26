@@ -1,15 +1,15 @@
 # Site settings
 baseurl = "http://justinzhu.me/Soccer"
 languageCode = "en-us"
-title = "docs/Soccer"
+title = "Hugrid - Grid Theme For Hugo"
 theme = "soccer"
 # Enter your tracking code to enable Google Analytics
 googleAnalytics = "UA-XXXXXXXX-Y"
 
-contentdir = "docs/content"
-datadir = "docs/data"
-layoutdir = "docs/layouts"
-publishdir = "docs/public"
+contentdir = "content"
+datadir = "data"
+layoutdir = "layouts"
+publishDir = "docs"
 
 [params]
     # Meta
