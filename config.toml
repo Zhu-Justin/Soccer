@@ -10,6 +10,7 @@ contentdir = "content"
 datadir = "data"
 layoutdir = "layouts"
 publishDir = "docs"
+themesDir = "themes"
 
 [params]
     # Meta
