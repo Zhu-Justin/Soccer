@@ -2,7 +2,7 @@
 baseurl = "http://justinzhu.me/Soccer"
 languageCode = "en-us"
 title = "NYC Friendlies"
-theme = "hugrid"
+# theme = "hugrid"
 # Enter your tracking code to enable Google Analytics
 googleAnalytics = "UA-XXXXXXXX-Y"
 
