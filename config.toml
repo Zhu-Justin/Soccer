@@ -13,20 +13,20 @@ publishDir = "docs"
 
 [params]
     # Meta
-    title = "Hugrid - a simple grid theme for Hugo"
-    subtitle = "A kind of boilerplate to perform anyone or anything quickly. Portfolio, collection, bookmarks, contacts and so on."
+    # title = "Hugrid - a simple grid theme for Hugo"
+    # subtitle = "A kind of boilerplate to perform anyone or anything quickly. Portfolio, collection, bookmarks, contacts and so on."
     author = "Justin Zhu"
-    description = "Hugrid - grid theme for Hugo with an expanding image preview."
-    keywords = "Hugo, Hugo theme, grid theme, portfolio, bookmarks, collection, contacts"
+    description = "Let's have fun and play some sports together!"
+    # keywords = "Hugo, Hugo theme, grid theme, portfolio, bookmarks, collection, contacts"
 
     # Body background color
     bodybgcolor = "#f9f9f9"
 
     # Preview container button text
-    buttontext = "Get the theme"
+    # buttontext = "Get the theme"
 
     # Footer text
-    footertext = "Made by [Codrops](http://tympanus.net/codrops/2013/03/19/thumbnail-grid-with-expanding-preview/), [Hugo](http://gohugo.io) and [me](https://github.com/aerohub)"
+    # footertext = "Made by [Codrops](http://tympanus.net/codrops/2013/03/19/thumbnail-grid-with-expanding-preview/), [Hugo](http://gohugo.io) and [me](https://github.com/aerohub)"
 
     # add extra-css
     # custom_css = ['css/extra1.css', 'css/extra2.css']
