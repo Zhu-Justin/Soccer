@@ -1,2 +1,2 @@
 # Soccer
-Fun
+Friends can better meet up and play soccer together.
