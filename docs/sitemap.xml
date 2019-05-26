@@ -3,17 +3,17 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://justinzhu.me/Soccer/categories/</loc>
+    <loc>https://justinzhu.me/Soccer/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://justinzhu.me/Soccer/</loc>
+    <loc>https://justinzhu.me/Soccer/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://justinzhu.me/Soccer/tags/</loc>
+    <loc>https://justinzhu.me/Soccer/tags/</loc>
     <priority>0</priority>
   </url>
   

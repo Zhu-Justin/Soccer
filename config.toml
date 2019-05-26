@@ -1,5 +1,5 @@
 # Site settings
-baseurl = "http://justinzhu.me/Soccer/"
+baseurl = "https://justinzhu.me/Soccer/"
 languageCode = "en-us"
 title = "NYC Friendlies"
 theme = "hugrid"
