@@ -14,7 +14,7 @@ publishDir = "docs"
 [params]
 # Meta
 title = "Soccer Meetups and More in NYC"
-subtitle = "A Schedule for Exploring the Fields of NYC with College Buddies on a Sunday Afternoon."
+subtitle = "A Sunday Afternoon on the Fields of New York."
 author = "Justin Zhu"
 description = "Soccer Schedule."
 keywords = ""
